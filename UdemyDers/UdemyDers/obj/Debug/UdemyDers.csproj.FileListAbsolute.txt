@@ -1,0 +1,10 @@
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\bin\Debug\UdemyDers.exe.config
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\bin\Debug\UdemyDers.exe
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\bin\Debug\UdemyDers.pdb
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.csproj.AssemblyReference.cache
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.Form1.resources
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.Properties.Resources.resources
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.csproj.GenerateResource.cache
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.csproj.CoreCompileInputs.cache
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.exe
+C:\Users\mustf\source\repos\UdemyDers\UdemyDers\obj\Debug\UdemyDers.pdb
