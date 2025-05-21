@@ -1,0 +1,10 @@
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\212ComboboxÖrnek.csproj.AssemblyReference.cache
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\_212ComboboxÖrnek.Form1.resources
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\_212ComboboxÖrnek.Properties.Resources.resources
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\212ComboboxÖrnek.csproj.GenerateResource.cache
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\212ComboboxÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\bin\Debug\212ComboboxÖrnek.exe.config
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\bin\Debug\212ComboboxÖrnek.exe
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\bin\Debug\212ComboboxÖrnek.pdb
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\212ComboboxÖrnek.exe
+C:\Users\mustf\source\repos\212ComboboxÖrnek\212ComboboxÖrnek\obj\Debug\212ComboboxÖrnek.pdb
