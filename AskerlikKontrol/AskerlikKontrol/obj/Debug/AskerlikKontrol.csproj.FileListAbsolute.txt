@@ -1,0 +1,10 @@
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\bin\Debug\AskerlikKontrol.exe.config
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\bin\Debug\AskerlikKontrol.exe
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\bin\Debug\AskerlikKontrol.pdb
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.csproj.AssemblyReference.cache
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.Form1.resources
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.Properties.Resources.resources
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.csproj.GenerateResource.cache
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.csproj.CoreCompileInputs.cache
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.exe
+C:\Users\mustf\source\repos\AskerlikKontrol\AskerlikKontrol\obj\Debug\AskerlikKontrol.pdb
