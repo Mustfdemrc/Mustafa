@@ -1,0 +1,10 @@
+C:\Users\mustf\source\repos\Vize01\Vize01\bin\Debug\Vize01.exe.config
+C:\Users\mustf\source\repos\Vize01\Vize01\bin\Debug\Vize01.exe
+C:\Users\mustf\source\repos\Vize01\Vize01\bin\Debug\Vize01.pdb
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.csproj.AssemblyReference.cache
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.Form1.resources
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.Properties.Resources.resources
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.csproj.GenerateResource.cache
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.csproj.CoreCompileInputs.cache
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.exe
+C:\Users\mustf\source\repos\Vize01\Vize01\obj\Debug\Vize01.pdb
