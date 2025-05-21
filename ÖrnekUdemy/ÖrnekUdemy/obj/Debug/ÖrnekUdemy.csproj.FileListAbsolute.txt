@@ -1,0 +1,10 @@
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\bin\Debug\ÖrnekUdemy.exe.config
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\bin\Debug\ÖrnekUdemy.exe
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\bin\Debug\ÖrnekUdemy.pdb
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.csproj.AssemblyReference.cache
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.Form1.resources
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.Properties.Resources.resources
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.csproj.GenerateResource.cache
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.csproj.CoreCompileInputs.cache
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.exe
+C:\Users\mustf\source\repos\ÖrnekUdemy\ÖrnekUdemy\obj\Debug\ÖrnekUdemy.pdb
